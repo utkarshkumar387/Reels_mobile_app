@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "842584940671",
+    "project_id": "raiser-b27fd",
+    "storage_bucket": "raiser-b27fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842584940671:android:b17b959fefd9a67094df4a",
+        "android_client_info": {
+          "package_name": "com.example.raiser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842584940671-trsq56bdr1l635pkmkgvv32u01b7r5oq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEWoKJBqthY2dZSrR-SOxmYrr2l1finKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842584940671-trsq56bdr1l635pkmkgvv32u01b7r5oq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
